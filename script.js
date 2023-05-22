@@ -11,7 +11,8 @@
         'residence': 'Zaporizhzhya',
         'education': 'ITStep - web developer',
         'skills': 'JavaScript, React.js, Bootstrap, PHP, MySQL',
-        'site': 'https://dovgaldima.pp.ua'
+        'site': 'https://dovgaldima.pp.ua',
+        'phone': '+380981180209'
     };
 
     const dataList = document.querySelector('#dataList');
