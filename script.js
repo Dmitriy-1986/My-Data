@@ -17,7 +17,7 @@
 
     const dataList = document.querySelector('#dataList');
 
-    for (var key in myData) {
+    for (const key in myData) {
         let li = document.createElement('li');
         li.innerHTML += `<em>${key}:</em> ${myData[key]}`;
         dataList.append(li);
